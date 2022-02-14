@@ -12,7 +12,7 @@ Load the modules:
 module load cudatoolkit/21.9_11.4
 module load python
 module load pytorch
-pip install yaml
+pip install pyyaml
 ```
 
 # Study from PINO
