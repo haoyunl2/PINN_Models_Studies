@@ -15,7 +15,7 @@ module load pytorch
 pip install yaml
 ```
 
-# Study fropm PINO
+# Study from PINO
 Here I try to use Cosine Layer, which adapts Discrete Cosine Transformation, to compare the performance with PINO, which utilizes Fourier Layer.
 
 
